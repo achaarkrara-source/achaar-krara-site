@@ -58,6 +58,45 @@ const PRODUCTS = [
       "1kg": 460
     },
     "reviews": []
+  },
+  {
+    "name": "Green Chilli Achaar",
+    "desc": "Bold, tangy green chilli pickle handcrafted in Himachal Pradesh with traditional spices, mustard oil, and authentic homemade flavours in every bite.",
+    "heat": 3,
+    "color": "#6B7A3A",
+    "images": [],
+    "inStock": true,
+    "sizes": {
+      "500g": 250,
+      "1kg": 500
+    },
+    "reviews": []
+  },
+  {
+    "name": "Dheu Achaar",
+    "desc": "Authentic Dheu (Monkey Fruit) pickle handcrafted in Himachal Pradesh with traditional spices and mustard oil, delivering a bold homemade tangy flavour.",
+    "heat": 1,
+    "color": "#6B7A3A",
+    "images": [],
+    "inStock": true,
+    "sizes": {
+      "500g": 250,
+      "1kg": 500
+    },
+    "reviews": []
+  },
+  {
+    "name": "Nimbu khatha Meetha Achaar",
+    "desc": "Sweet and tangy lemon pickle handcrafted in Himachal Pradesh with traditional spices, delivering a perfectly balanced homemade flavour in every bite.",
+    "heat": 0,
+    "color": "#6B7A3A",
+    "images": [],
+    "inStock": true,
+    "sizes": {
+      "500g": 250,
+      "1kg": 500
+    },
+    "reviews": []
   }
 ];
 
