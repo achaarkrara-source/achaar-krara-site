@@ -95,6 +95,19 @@ const PRODUCTS = [
       "1kg": 500
     },
     "reviews": []
+  },
+  {
+    "name": "Lasuda Achaar",
+    "desc": "",
+    "heat": 0,
+    "color": "#6B7A3A",
+    "images": [],
+    "inStock": true,
+    "sizes": {
+      "500g": 250,
+      "1kg": 500
+    },
+    "reviews": []
   }
 ];
 
