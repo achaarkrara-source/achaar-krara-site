@@ -11,7 +11,6 @@ const PRODUCTS = [
     "images": [],
     "inStock": true,
     "sizes": {
-      "400g": 220,
       "500g": 260,
       "1kg": 480
     },
@@ -25,7 +24,6 @@ const PRODUCTS = [
     "images": [],
     "inStock": true,
     "sizes": {
-      "400g": 240,
       "500g": 280,
       "1kg": 520
     },
